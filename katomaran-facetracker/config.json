@@ -1,0 +1,11 @@
+{
+  
+    "DB_PATH": "data/visitor_log.db",
+    "FACE_DB_PATH": "data/face_db.pkl",
+    "SIMILARITY_THRESHOLD": 0.6,
+    "DETECTION_SKIP_FRAMES": 5,
+    "LOG_DIR": "logs",
+    "YOLO_MODEL_PATH": "yolov8n-face.pt",
+    "MIN_CONFIDENCE": 0.5
+
+}
